@@ -725,7 +725,7 @@
                         </div>
 
                         </div>
-
+                                                <!-- Apartir de aqui me da error el formulario . Just HTML that goes in the <body> goes here.-->
 
                         <div class="row mb-4">
                         <div class="col-md-5">
